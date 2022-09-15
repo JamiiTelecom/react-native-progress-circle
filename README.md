@@ -3,7 +3,9 @@
 [![npm](https://img.shields.io/npm/dt/react-native-progress-circle.svg)](https://www.npmjs.com/package/react-native-progress-circle)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cmichelio.svg?style=social&label=Follow)](https://twitter.com/cmichelio)
 
-# React Native Progress Circle
+# React Native Progress Circle (Updated)
+
+Updated from react-native-progress-circle
 
 ![React Native Progress Circles](/README/featured.png?raw=true "React Native Progress Circles")
 
@@ -15,16 +17,16 @@
 
 ## Installation
 
-`yarn add react-native-progress-circle`
+`yarn add react-native-progress-circle-updated`
 
 or
 
-`npm install --save react-native-progress-circle`
+`npm install --save react-native-progress-circle-updated`
 
 ## Usage
 
 ```javascript
-import ProgressCircle from 'react-native-progress-circle'
+import ProgressCircle from 'react-native-progress-circle-updated'
 
 render() {
     return (
